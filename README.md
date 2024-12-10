@@ -1,5 +1,5 @@
 # IIC2433 - Minería de Datos
-
+VIDEO INCLUIDO
 ## Tabla de contenidos
 
 - [Notas](#notas)
